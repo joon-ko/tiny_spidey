@@ -1,5 +1,5 @@
 # tiny_spidey
-A rather basic web crawler using BeautifulSoup. A whopping 36 lines.
+A rather basic web crawler using BeautifulSoup. A whopping 32 lines.
 
 ## How to install
 ``` pip install tiny_spidey ```

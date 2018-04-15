@@ -1,1 +1,1 @@
-from .tiny_spidey import crawl
+from spidey import *
