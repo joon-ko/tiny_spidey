@@ -1,1 +1,1 @@
-from spidey import *
+from .spidey import *
